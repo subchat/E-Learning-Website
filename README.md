@@ -16,6 +16,10 @@ Provide instructions for installing and setting up the project locally. Include 
 ## Usage
 Explain how to use the project once it is installed and running. Provide examples or screenshots if necessary to illustrate the usage of different features or functionalities.
 
+## Screenshots
+![Screenshot 2024-04-24 115442](https://github.com/subchat/E-Learning-Website/assets/82167489/f4d6ef7e-46f1-4afb-895e-95fad0d2eff3)
+
+
 ## Development
 Describe the development process for the project, including any challenges faced, decisions made, and lessons learned. Discuss the project's architecture, design patterns, and coding conventions.
 
