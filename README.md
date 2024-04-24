@@ -17,7 +17,10 @@ Provide instructions for installing and setting up the project locally. Include 
 Explain how to use the project once it is installed and running. Provide examples or screenshots if necessary to illustrate the usage of different features or functionalities.
 
 ## Screenshots
+![Screenshot 2024-04-24 115006](https://github.com/subchat/E-Learning-Website/assets/82167489/f88291ec-8aaa-4699-9345-9a887a4fd728)
+
 ![Screenshot 2024-04-24 115442](https://github.com/subchat/E-Learning-Website/assets/82167489/f4d6ef7e-46f1-4afb-895e-95fad0d2eff3)
+
 
 
 ## Development
